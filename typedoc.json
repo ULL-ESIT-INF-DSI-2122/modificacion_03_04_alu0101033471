@@ -3,7 +3,12 @@
     "./src/index.ts",
     "./src/BubbleSort/bubblesort.ts",
     "./src/Solver/Solver.ts",
-    "./src/MergeSort/mergesort.ts"
+    "./src/MergeSort/mergesort.ts",
+    "./src/18_04/Reduce.ts",
+    "./src/18_04/SubReduce.ts",
+    "./src/18_04/ProdReduce.ts",
+    "./src/18_04/Addreduce.ts"
+
     
 
 

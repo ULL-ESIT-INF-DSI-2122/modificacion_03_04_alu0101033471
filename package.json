@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "modi": "tsc-watch --onSuccess \"node dist/18_04/modificacion.js\"",
     "test": "mocha",
     "start": "tsc-watch --onSuccess \"node dist/index.js\"",
     "coverage": "nyc npm test && nyc report --reporter-lcov",
